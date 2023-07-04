@@ -1,5 +1,4 @@
 {
-    "success": true,
     "data": [
         {
             "userName": "Роман",
@@ -112,6 +111,13 @@
             "date": null,
             "userAvatar": null,
             "countUnreadMessages": 0
+        },
+        {
+            "userName": "Дэн",
+            "lastMessage": "Ещё бы...",
+            "date": 1688479722134,
+            "userAvatar": null,
+            "countUnreadMessages": 2
         }
     ]
 }
